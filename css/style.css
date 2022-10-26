@@ -121,4 +121,11 @@ footer {
   .container {
     top: 180px;
   }
+
+  header {
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    top: -15px;
+  }
 }
